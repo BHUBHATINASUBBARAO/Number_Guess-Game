@@ -80,3 +80,5 @@ Output
 - Store high scores using local storage
 - Add sound effects or animations for feedback
 - Display a history of previous guesses
+
+- ##  http://127.0.0.1:3000/index.html ##
